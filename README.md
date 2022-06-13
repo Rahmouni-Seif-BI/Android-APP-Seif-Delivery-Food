@@ -3,4 +3,4 @@ The goal of this project is to design and create an Android application to consu
 
 ![](IMAGES/home.PNG)
 ![](IMAGES/main2food.PNG)
-![](IMAGES/log food.PNG)
+
